@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import "./about.css";
-import Header from "../../hader_footer/header_about";
 import Footer from "../../hader_footer/footer";
 
 const About = () => {

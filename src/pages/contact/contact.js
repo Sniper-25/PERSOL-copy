@@ -32,12 +32,12 @@ const ContactUs = () => {
         <p>If you have any questions, feel free to reach out to us.</p>
 
         <div className="contact-info">
-          <a href="#" id="end"><a href="mailto:persol@gmail.com">  <FontAwesomeIcon icon={faEnvelope} id='foont_1' /><strong>Email:</strong></a>parsoll@gmail.com</a><br />
+          <a href="mailto:persol@gmail.com"  id="end"> <FontAwesomeIcon icon={faEnvelope} id='foont_1' /><strong>Email : </strong>parsoll@gmail.com</a><br />
 
 
-          <a href="#" id="end"><a href="+967778088098">  <FontAwesomeIcon icon={faPhoneFlip} id='foont_1' /><strong>Phone:</strong>   </a>+967 778088098</a><br />
+         <a href="https://wa.me/+967778088098?text=Hi+Fares" id="end">  <FontAwesomeIcon icon={faPhoneFlip} id='foont_1' /><strong>Phone : </strong>+967778088098</a><br />
 
-          <a id="end"><a>  <FontAwesomeIcon icon={faLocationDot} id='foont_1' /><strong>Address:</strong></a>60th Street - Behind the Long Mountain</a>
+          <h3 id="end"><a>  <FontAwesomeIcon icon={faLocationDot} id='foont_1' /><strong>Address : </strong></a>60th Street - Behind the Long Mountain</h3>
         </div>
 
         <form className="contact-form" onSubmit={handleSubmit}>

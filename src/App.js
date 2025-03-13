@@ -10,6 +10,7 @@ import Layout from './Layout';
 import Loc from './pages/Loc/Loc';
 import Footer from './hader_footer/footer';
 import Register from './pages/Login/Register';
+import LoginFor from './pages/Login/login_for';
 function App() {
     return (
 
@@ -26,6 +27,7 @@ function App() {
                     <Route path='/Loc' element={<Loc />}></Route>
                     <Route path='/foo' element={<Footer />}></Route>
                     <Route path='/re' element={<Register />}></Route>
+                    <Route path='/for' element ={<LoginFor/>}></Route>
                 </Routes>
             </Layout>
         </Router>

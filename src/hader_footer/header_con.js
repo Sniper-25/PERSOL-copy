@@ -1,4 +1,3 @@
-import react from "react";
 import { Link } from 'react-router-dom';
 import './header.css';
 
@@ -6,7 +5,7 @@ import './header.css';
 const Header = () => {
   return (
     <header>
-      <header1 className="Rectangle_4">
+      <div className="Rectangle_4">
         <div className="persol-image"></div>
         <div className="Rectangle_44">
 
@@ -38,7 +37,7 @@ const Header = () => {
           <div className="Rectangle-login">Login</div>
         </Link>
         <div className="Rectangle-43"></div>
-      </header1>
+      </div>
 
     </header>
   );

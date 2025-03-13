@@ -6,7 +6,7 @@ import './header.css';
 const HeaderLoc = () => {
   return (
     <header>
-      <header1 className="Rectangle_4">
+      <div className="Rectangle_4">
         <div className="persol-image"></div>
         <div className="Rectangle_44">
 
@@ -40,7 +40,7 @@ const HeaderLoc = () => {
         </Link>
 
         <div className="Rectangle-43"></div>
-      </header1>
+      </div>
 
     </header>
   );

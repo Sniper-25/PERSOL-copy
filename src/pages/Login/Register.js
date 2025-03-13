@@ -70,9 +70,7 @@ const Register = () => {
             Register
           </button>
 
-          <a href="#" className="forgot-password" onClick={handleForgotPassword}>
-            Forgot Password?
-          </a>
+         
 
           <div className="or-section">
             <div className="line"></div>

@@ -35,6 +35,7 @@ const Login = () => {
             <div className="ellipse ellipse-1"></div>
             <div className="ellipse ellipse-2"></div>
           </h1>
+          <h4>Hello,Welcom back</h4>
           <div>  <FontAwesomeIcon icon={faUser} id='foont' /></div>
 
           <input
@@ -57,9 +58,9 @@ const Login = () => {
             Login
           </button>
 
-          <a href="#" className="forgot-password" onClick={handleForgotPassword}>
+          <Link to="/for" href="#" className="forgot-password" onClick={handleForgotPassword}>
             Forgot Password?
-          </a>
+          </Link>
 
           <div className="or-section">
             <div className="line"></div>

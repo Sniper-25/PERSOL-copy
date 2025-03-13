@@ -65,7 +65,7 @@ const Home = () => {
         <div className="card">
           <img
             src="/182207002_4.jpg"
-            alt="img2"
+            alt="img3"
             className="img1"
           />
           <div className="Rectangle-10">
@@ -106,7 +106,7 @@ const Home = () => {
               <h3 className="TEXT-BOX1">RAY-BAN</h3>
               <img
                 src="/d2fc29eae8b6662aecec98537139d14d.jpg"
-                alt="img1"
+                alt="img1_1"
                 className="img11"
               />
               <div className="Rectangle-10_1">
@@ -127,7 +127,7 @@ const Home = () => {
               <h3 className="TEXT-BOX1">DIOR</h3>
               <img
                 src="/507b9d0e1ad9d33e9c6659b1d35c25e.jpg"
-                alt="img2"
+                alt="img2_1"
                 className="img11"
               />
               <div className="Rectangle-10_1">
@@ -148,7 +148,7 @@ const Home = () => {
               </h3>
               <img
                 src="/522db309d9d260e6b7f2b49d4782bc8f.jpg"
-                alt="img2"
+                alt="img2_2"
                 className="img11"
               />
               <div className="Rectangle-10_1">

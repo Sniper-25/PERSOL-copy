@@ -23,9 +23,11 @@ const Feed = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
+
     alert("Feedback submitted successfully!");
     setFormData({ name: "", email: "", phone: "", company: "", subject: "", message: "" });
   };
+  
 
   return (
     <div>
