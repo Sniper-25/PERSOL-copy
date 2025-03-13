@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/PERSOL-copy/static/css/main.691efd76.css",
+    "main.js": "/PERSOL-copy/static/js/main.a93b33cc.js",
+    "static/js/453.60634ccf.chunk.js": "/PERSOL-copy/static/js/453.60634ccf.chunk.js",
+    "static/media/jpg": "/PERSOL-copy/static/media/5e88e483f13d1dee1a0bf4b4ed0644a2.7462a2881f8975ef7cf7.jpg",
+    "static/media/9d0b7f3DTEDSM00001361_1.jpg": "/PERSOL-copy/static/media/9d0b7f3DTEDSM00001361_1.4b3317e201cb41a50e53.jpg",
+    "static/media/26b5929RANCH-C3_1.jpg": "/PERSOL-copy/static/media/26b5929RANCH-C3_1.5e325be6098f4ebf80f0.jpg",
+    "static/media/Picsart_25-02-15_21-32-18-033.png": "/PERSOL-copy/static/media/Picsart_25-02-15_21-32-18-033.595157e8244a6465f2bf.png",
+    "static/media/depositphotos_9082584-stock-photo-feedback-process 1.png": "/PERSOL-copy/static/media/depositphotos_9082584-stock-photo-feedback-process 1.aaa4351af05c9cf898dc.png",
+    "index.html": "/PERSOL-copy/index.html",
+    "main.691efd76.css.map": "/PERSOL-copy/static/css/main.691efd76.css.map",
+    "main.a93b33cc.js.map": "/PERSOL-copy/static/js/main.a93b33cc.js.map",
+    "453.60634ccf.chunk.js.map": "/PERSOL-copy/static/js/453.60634ccf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.691efd76.css",
+    "static/js/main.a93b33cc.js"
+  ]
+}
